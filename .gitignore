@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+models/
+*.landmarks.pkl
+*_preview.mp4
+*.vmd
